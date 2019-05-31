@@ -6,7 +6,7 @@ class Palindrome extends Component {
         super();
         this.state = {
             userInput: '',
-            Palindrome: ''
+            palindrome: ''
         }
     }
     handleChange(value) {
